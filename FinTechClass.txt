@@ -3,3 +3,4 @@ What I want to learn in FinTech Class:
 How to properly code.
 Learn how to use python and other languages.
 Learn blockchain technology and how it's useful for the future.
+Algorithmic Trading
