@@ -6,3 +6,4 @@ Learn blockchain technology and how it's useful for the future.
 Algorithmic Trading
 Learn how to build an app.
 Testing
+Hello From Git Bash. This is my first Push from Git Bash
